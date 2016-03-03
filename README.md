@@ -15,4 +15,6 @@ The following are the instructions to run the script on RStudio command line is:
     
 There is no visible output that is expected on the command line. The final tidy file - tidy_data.txt - will be created within the same directory that has been passed as input.  
 
-The script loads the necessary libraries for its functionalities viz., dplyr, data.table and tidyr.   
+The script loads the necessary libraries for its functionalities viz., dplyr, data.table and tidyr. 
+
+A more detailed walkthrough into the various analysis steps is undertaken in the code book - CodeBook.md - file.
