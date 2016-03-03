@@ -13,7 +13,7 @@ The following are the instructions to run the script on RStudio command line is:
           **> run_analysis(File_Path)**  
     where, File_Path --> full path of the directory containing the 'train' and 'test' folders related to this assignment  
     
-There is no visible output that is expected on the command line. The final tidy file - tidy_data.txt - will be created within the same directory that has been passed as input.  
+The final tidy file - tidy_data.txt - will be created within the same directory that has been passed as input. A summary of the output file is shown at the end of the script.
 
 The script loads the necessary libraries for its functionalities viz., dplyr, data.table and tidyr. 
 
