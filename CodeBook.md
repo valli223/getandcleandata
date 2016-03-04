@@ -171,7 +171,7 @@ said activity by the different sensors on top of the smartphone.
 
 Each variable name has 6 sub-parts within its name each separated by a '-' character.  
 The nomenclature for the column names is as follows:  
-1. The first three fields (separated by '-') represent whether the measurement is:  
+1. The first three fields (separated by '.') represent whether the measurement is:  
     + tm-dom-sig        ---   Time domain signal   
     + freq_dom_sig      ---   Frequency domain signal    
 2. The fourth field represents one of the below:  
